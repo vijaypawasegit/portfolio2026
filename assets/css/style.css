@@ -21032,7 +21032,7 @@ body.loaded {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 .education-experience-card .edu-title {
   color: var(--color-heading);
@@ -21048,12 +21048,12 @@ body.loaded {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
-  margin-top: 18px;
+  margin-top: 0px;
   margin-bottom: 0;
 }
 @media only screen and (max-width: 767px) {
   .education-experience-card .edu-para {
-    margin-top: 8px;
+    margin-top: 0px;
   }
 }
 
@@ -21300,7 +21300,7 @@ body.loaded {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 33px;
+  margin-top: 20px;
   gap: 20px;
 }
 @media only screen and (max-width: 767px) {
