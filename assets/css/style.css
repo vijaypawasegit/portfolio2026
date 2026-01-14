@@ -27415,3 +27415,15 @@ body.tmp-white-version.color-primary-3rd .services-widget.v2 .active-bg {
       color: var(--color-primary);
 }
 .latest-portfolio-card .portfolio-card-content-wrap.space-between {justify-content: space-between; !important}
+.education-experience-card {
+  display: flex;
+    align-items: start;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+    justify-content: start;
+}
+.education-experience-card img{
+  border-radius: 100px;
+    max-width: 70px;
+}
